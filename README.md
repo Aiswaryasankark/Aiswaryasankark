@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aiswaryasankark
-- 👀 I’m interested in Astronomy
-- 🌱 I’m currently working on superluminous supernova
-- 📫 How to reach me : aiswaryasankark@gmail.com
+-  Hi, I’m @Aiswaryasankark
+-  I’m interested in Astronomy
+-  I’m currently working on superluminous supernova
+-  How to reach me : aiswaryasankark@gmail.com
 
 
 
